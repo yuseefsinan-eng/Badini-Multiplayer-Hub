@@ -1,0 +1,17 @@
+{
+  "server_name": "سێرڤەرا کوردییا بادینی - SAMP",
+  "welcome_message": "بێخێر هاتن بۆ سێرڤەرا مە!",
+  "btn_login": "چوونا ژوور",
+  "btn_register": "تۆمارکرنا ناڤی",
+  "settings": "سەْتینگ",
+  "language": "زمان",
+  "studio_maps": "ستۆدیۆیا مەپان",
+  "vip_status": "تایبەتمەندیا VIP",
+  "change_text_logo": "گوهۆڕینا تێکست و لۆگۆی",
+  "languages_list": {
+    "badini": "کوردییا بادینی",
+    "sorani": "کوردییا سۆرانی",
+    "english": "English",
+    "arabic": "العربية"
+  }
+}
